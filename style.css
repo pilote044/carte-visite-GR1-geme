@@ -1,4 +1,18 @@
 *{
+    justify-content: center;
+    align-items: center;
+    background: rgba(90, 141, 9, 0.1);
+    color: white;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.socials a:hover{
+    background: rgba(235, 200, 4, 0.174);
+    color: rgb(9, 46, 73);
+    transform: scale(1.1);
+}
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -77,16 +91,3 @@ body{
     border-radius: 50%;
     text-decoration: none;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    background: rgba(90, 141, 9, 0.1);
-    color: white;
-    font-size: 20px;
-    transition: 0.3s;
-}
-
-.socials a:hover{
-    background: rgba(235, 200, 4, 0.174);
-    color: rgb(9, 46, 73);
-    transform: scale(1.1);
-}
