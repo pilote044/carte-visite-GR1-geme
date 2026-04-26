@@ -6,9 +6,9 @@
     font-size: 20px;
     transition: 0.3s;
 }
-
-.socials a:hover{
-    background: rgba(235, 200, 4, 0.174);
+{
+socials a:hover{
+ background: rgba(235, 200, 4, 0.174);
     color: rgb(9, 46, 73);
     transform: scale(1.1);
 }
@@ -41,7 +41,7 @@ body{
     padding: 40px;
     border-radius: 25px;
     text-align: center;
-    background: rgba(146, 20, 131, 0.08);
+    background: rgba(146, 20, 131, 0.09);
     backdrop-filter: blur(18px);
     border: 1px solid rgba(255,255,255,0.15);
     box-shadow: 0 20px 50px rgba(0,0,0,0.4);
