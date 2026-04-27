@@ -1,4 +1,4 @@
-*{body {  margin: 0;  height: 100vh;  display: flex;  justify-content: center;  align-items: center;  background: #f0f0f0;  font-family: Arial, sans-serif;}/* CARTE PRINCIPALE */.card {  display: flex;  width: 800px;  max-width: 95%;  border-radius: 12px;  overflow: hidden;  box-shadow: 0 0 25px rgba(0,0,0,0.3);  align-items: stretch;}/* GAUCHE */.card-left {  background: #fff;  flex: 1;  display: flex;  justify-content: center;  align-items: center;  padding: 40px;}.profile-pic {  width: 180px;  height: 180px;  border-radius: 50%;  border: 5px solid #d4af37;}20px;
+ {  margin: 0;  height: 100vh;  display: flex;  justify-content: center;  align-items: center;  background: #f0f0f0;  font-family: Arial, sans-serif;}/* CARTE PRINCIPALE */.card {  display: flex;  width: 800px;  max-width: 95%;  border-radius: 12px;  overflow: hidden;  box-shadow: 0 0 25px rgba(0,0,0,0.3);  align-items: stretch;}/* GAUCHE */.card-left {  background: #fff;  flex: 1;  display: flex;  justify-content: center;  align-items: center;  padding: 40px;}.profile-pic {  width: 180px;  height: 180px;  border-radius: 50%;  border: 5px solid #d4af37;}20px;
 }
 
 .profile h1{
