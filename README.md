@@ -10,7 +10,7 @@ Ce projet consiste à réaliser une carte de visite numérique permettant de pr�
 
 | NOM  | MATRICULE | COMPTE GITHUB |
 |----------------|----------|----------------|
-| **DJENBA NENWALA PILOTE** | 23A044CM |   |
+| **DJENBA NENWALA PILOTE** | 23A044CM |pilote044   |
 | **PITINNOA MATHIAS** | 23A168CM | PitinnoaMathias |
 | **NGUINDJEL LOUIS DIEUDONNÉ** | 23A149CM |gabinlouis352-blip  |
 | **DJIOFACK WILLIAM DUHAMEL** | 25B030CM |  |
