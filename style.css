@@ -91,4 +91,61 @@ body{
     border-radius: 50%;
     text-decoration: none;
     display: flex;
+/* TRAIT DORÉ CENTRAL */
+.gold-divider {
+  width: 4px;
+  background: #d4af37;
+}
 
+/* DROITE */
+.card-right {
+  background: #111;
+  color: white;
+  flex: 2;
+  padding: 40px;
+}
+
+.name {
+  color: #d4af37;
+  font-size: 2em;
+  margin: 0;
+}
+
+.title {
+  color: #ddd;
+  margin-top: 5px;
+}
+
+.bio {
+  color: #bbb;
+  margin-top: 15px;
+}
+
+/* CONTACT */
+.contact-info p {
+  margin: 8px 0;
+  color: #ddd;
+}
+
+.contact-info i {
+  color: #d4af37;
+  margin-right: 8px;
+}
+
+/* RÉSEAUX */
+.social-links {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.social {
+  color: #d4af37;
+  font-size: 1.5em;
+  transition: 0.3s;
+}
+
+.social:hover {
+  color: white;
+  transform: scale(1.2);
+    }
