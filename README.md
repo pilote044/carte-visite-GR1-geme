@@ -8,7 +8,7 @@ Ce projet consiste à réaliser une carte de visite numérique permettant de pr�
 -javascript
 ## 👥 Membres du groupe
 
-| NOM  | MATRICULE | COMPTE GITHUB |
+| NOMS ET PRENOMS  | MATRICULE | COMPTE GITHUB |
 |----------------|----------|----------------|
 | **DJENBA NENWALA PILOTE** | 23A044CM |pilote044   |
 | **PITINNOA MATHIAS** | 23A168CM | PitinnoaMathias |
